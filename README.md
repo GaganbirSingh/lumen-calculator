@@ -64,3 +64,7 @@ Q1-Git-Merge-Conflict/
 
 - Repository: https://github.com/GaganbirSingh/lumen-calculator
 - Live demo: to be added after deployment
+## Lab progress
+
+- Initial version pushed from the local repository.
+- This section was added on GitHub to demonstrate git pull.
